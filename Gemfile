@@ -47,6 +47,7 @@ gem "bootsnap", require: false
 
 # custom gems
 gem "simple_form"
+gem "faker"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
